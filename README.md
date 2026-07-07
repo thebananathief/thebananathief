@@ -1,7 +1,7 @@
 
 # My Journey
 
-My first app was [Hosty](https://github.com/thebananathief/hosty) to learn to program. Since then I've delved into self-hosting my own media server, git repositories, home assistant, set up nightly offsite backups and I continue using it to spin up random servers I want to play with.
+My first app was [Hosty](https://github.com/thebananathief/hosty) to learn to program. Since then I've delved into self-hosting my own media server, git repositories, home assistant, set up nightly offsite backups and I still use it to spin up random servers (Minecraft, whatever webapp I'm testing).
 
 
 # Things I'm playing with
