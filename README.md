@@ -16,5 +16,5 @@ S&Box (pretty new game engine/platform with services) game development. I'm work
 # Professional Experience
 
 I've managed MySQL and SQL Server databases in a messy enterprise infrastructure since 2024. I've developed and maintained internal .NET and web applications since 2022.
-I HATE baseless authority and bullshit rules, I like to make a fuss when I think something is wrong.
 
+I HATE baseless authority and bullshit rules, I like to make a fuss when I think something is wrong.
